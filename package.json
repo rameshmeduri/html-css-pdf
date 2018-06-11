@@ -1,0 +1,11 @@
+{
+  "name": "html-css-pdf",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node src/publish.js"
+  },
+  "dependencies": {
+    "html5-to-pdf": "^2.2.4",
+    "pug": "^2.0.3"
+  }
+}
